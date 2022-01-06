@@ -1,0 +1,4 @@
+for es un bucle que es utilizado como un evaluador de expresiones una y otra vez hasta encontrar nuestro resultado en este bucle se declaran las variables, también se integra una expresión condicional, para que este ciclo suceda una y otra vez hasta llegar a una declaración falsa.
+&& es un operador lógico para que sea verdadero, es porque las condiciones se van a cumplir 
+|| es un operador lógico para que sea verdadero, con una condición que se cumpla es suficiente, pero también nos dice que hay una o más condiciones que se pueden cumplir
+! operador lógico de negación y es utilizado para obtener el valor contrario al valor de la variable.
