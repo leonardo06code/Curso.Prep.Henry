@@ -1,0 +1,5 @@
+Prototype
+Es una propiedad que tienen todos los objetos de JavaScript, el cual representa el prototipo de cada objeto. Gracias a prototype, se pueden modificar los objetos o agregar algún polyfill. Sus ventajas son cuando se agrega un método al objeto, a través de prototype, todos los demás objetos lo heredan al instante. Pero no hay que usarse si Si el objeto no es del programador, nunca. Es decir, no es recomendable modificar a Array, Object, String, etcétera; pues son objetos que son globales y a su vez especiales. Nunca se deben modificar , si no es estrictamente necesario. En cambio, si son objetos propios (o clases), no hay ningún problema.
+
+Constructors (de Clases)
+El método constructor es un método especial para crear e inicializar un objeto creado con una clase. Solo puede haber un método especial con el nombre "constructor" en una clase. Si esta contiene mas de una ocurrencia del método constructor, se arrojará un Error SyntaxError. Un constructor puede usar la palabra reservada super para llamar al constructor de una superclase
