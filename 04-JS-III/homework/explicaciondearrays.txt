@@ -1,0 +1,3 @@
+Arrays , es la parte donde estructuramos una colección de datos donde definimos 
+los arreglos de nuestros datos que al ejecutarse no se pueden cambiar, estos 
+datos son del mismo tipo.
