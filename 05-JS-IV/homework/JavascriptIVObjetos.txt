@@ -1,0 +1,12 @@
+Objetos
+Es una colección de datos relacionados y/o funcionalidad (que generalmente consta de algunas variables y funciones, que se denominan propiedades y métodos cuando están dentro de objetos). Estos datos se pueden reutilizar varias cadenas de código.
+Propiedades 
+Las propiedades modifican los objetos, y el mismo nombre de propiedad se puede aplicar a objetos completamente diferentes. 
+Métodos
+Las cosas que pueden hacer los objetos se llaman métodos. Es decir, el método que se escriba es la acción a realizar.
+Bucle for…in
+Su papel principal es el de recorrer un objeto pasando por cada una de sus propiedades para actuar sobre ellas de alguna manera; sin embargo, dado que en Javascript los arrays son también objetos, podemos encontrarlo iterando por cada uno de los valores de estos últimos.
+Notación de puntos vs notación de corchetes
+En Javascript existen dos maneras de acceder a las propiedades o funciones de un objeto. 
+Ejemplo Notación de puntos: console.log(miMascota.nombre); 
+Ejemplo notación de corchetes: console.log(miMascota["nombre"]);
