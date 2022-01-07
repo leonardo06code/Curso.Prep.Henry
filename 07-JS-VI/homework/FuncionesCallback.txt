@@ -1,0 +1,5 @@
+Funciones Callback
+Una función callback en javascript (y como concepto general) es una función que se usa para propagar el resultado de una operación. 
+Esta función callback se pasa como parámetro a otra función, y es llamada con un resultado cuando la función complete su operación. 
+Dentro de esta función contamos con operaciones síncronas y asíncronas al igual que cuenta con tres estilos, Estilo con paso continuo síncrono, 
+Estilo con paso continuo asíncrono y Estilo de una función callback en javascript sin paso de continuo.
